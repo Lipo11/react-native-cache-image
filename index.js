@@ -1,1 +1,1 @@
-export * from './lib/cacheimage';
+export * from './lib/cacheimage.js';

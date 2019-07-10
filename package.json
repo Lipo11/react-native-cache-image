@@ -3,6 +3,9 @@
   "version": "1.0.0",
   "description": "Cache image for your react native app!",
   "main": "index.js",
+  "files": [
+    "lib/"
+  ],
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
