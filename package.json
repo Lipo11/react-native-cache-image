@@ -1,5 +1,5 @@
 {
-  "name": "react-native-cache-image",
+  "name": "react-native-cdn-image",
   "version": "1.0.0",
   "description": "Cache image for your react native app!",
   "main": "index.js",
@@ -11,7 +11,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Lipo11/react-native-cache-image.git"
+    "url": "git+https://github.com/Lipo11/react-native-cdn-image.git"
   },
   "keywords": [
     "cache",
@@ -20,9 +20,9 @@
   "author": "Alex Polomcak",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/Lipo11/react-native-cache-image/issues"
+    "url": "https://github.com/Lipo11/react-native-cdn-image/issues"
   },
-  "homepage": "https://github.com/Lipo11/react-native-cache-image#readme",
+  "homepage": "https://github.com/Lipo11/react-native-cdn-image#readme",
   "dependencies": {
     "react-native-fs": "2.13.3"
   }
